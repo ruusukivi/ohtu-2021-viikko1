@@ -13,3 +13,4 @@
 
 - Tehtävät 1-2 https://github.com/ruusukivi/ohtu-tehtavat
 - Tehtävä 3 https://github.com/ruusukivi/ohtu-2022-viikko1
+- Tehtävät 8-9 https://github.com/ruusukivi/ohtu-tehtavat
